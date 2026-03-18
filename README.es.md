@@ -29,8 +29,14 @@ BLM RealPitch es una herramienta de precision diseñada por Brownie Line para ay
 1. Haz clic en el boton verde de "Descargar para Android" arriba.
 2. Abre el archivo .apk en tu dispositivo y permite la instalacion de fuentes externas.
 
-[![Descargar para Windows](https://img.shields.io/badge/Descargar-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/Brownie-Line/BLM_RealPitch/releases/download/1.0.0/BLM.RealPitch.exe)
-[![Descargar para Android](https://img.shields.io/badge/Descargar-Android-green?style=for-the-badge&logo=android)](https://github.com/Brownie-Line/BLM_RealPitch/releases/download/1.0.0/BLM_RealPitch.apk)
+[![Descargar Windows](https://img.shields.io/badge/Descargar-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/Brownie-Line/BLM_RealPitch/releases/download/1.0.0/BLM.RealPitch.exe)
+[![Descargar Android](https://img.shields.io/badge/Descargar-Android-green?style=for-the-badge&logo=android)](https://github.com/Brownie-Line/BLM_RealPitch/releases/download/1.0.0/BLM_RealPitch.apk)
+
+## Capturas de pantalla
+
+<img src="assets/MuestraPC1.png" width="45%"> <img src="assets/MuestraPC2.png" width="45%">
+<br>
+<img src="assets/MuestraAndroid1.jpg" width="45%"> <img src="assets/MuestraAndroid2.jpg" width="45%">
 
 ## Apoyo y Contacto
 

@@ -34,6 +34,13 @@ The installation files can be found in the **Releases** section of this reposito
 [![Download Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/Brownie-Line/BLM_RealPitch/releases/download/1.0.0/BLM.RealPitch.exe)
 [![Download Android](https://img.shields.io/badge/Download-Android-green?style=for-the-badge&logo=android)](https://github.com/Brownie-Line/BLM_RealPitch/releases/download/1.0.0/BLM_RealPitch.apk)
 
+
+## Interface Screenshots
+
+<img src="assets/MuestraPC1.png" width="45%"> <img src="assets/MuestraPC2.png" width="45%">
+<br>
+<img src="assets/MuestraAndroid1.jpg" width="45%"> <img src="assets/MuestraAndroid2.jpg" width="45%">
+
 ## Support and Contact
 
 If you wish to support the development of this and other free tools, you can do so through the following link:
